@@ -4,6 +4,11 @@ body {
     color: white;
 }
 
+header {
+    font: 40px georgia;
+    background: #f716ca;
+    color: white;
+}
 .flex-container {
     display: -webkit-flex;
     display: flex;
@@ -30,7 +35,7 @@ body {
     margin: 4px;
     padding: 5px;
     min-height: 100px;
-    background-color: #42f46e;
+    background-color: #00000;
     
 }
 
